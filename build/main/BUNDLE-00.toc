@@ -1,0 +1,4 @@
+([('main',
+   '/Users/shashanksingh/Downloads/PROJECTS/proposal system using rag '
+   '2/dist/main',
+   'EXECUTABLE')],)

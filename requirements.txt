@@ -1,0 +1,22 @@
+# Core RAG stack
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-ollama>=0.1.0
+langchain-chroma>=0.1.0
+chromadb>=0.5.0
+
+# Document loaders
+pypdf>=4.0.0
+python-docx>=1.1.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Embeddings / Ollama
+ollama>=0.2.0
+
+# UI
+PyQt6>=6.7.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
